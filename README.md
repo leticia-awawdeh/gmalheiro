@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Malheiro 😉
 
-## Sou o Gabriel Malheiro, tenho 18 anos e me considero um eterno aluno, sempre em busca de conhecimento. Gosto muito de filmes 🎥, apaixonado pelos filmes do Studio Ghibli e do Scorsese. Gosto muito de ler 📖 e jogar 🎮. 
+## Tenho 18 anos e me considero um eterno aluno, sempre em busca de conhecimento. Gosto muito de filmes 🎥, apaixonado pelos filmes do Studio Ghibli e do Scorsese. Gosto muito de ler 📖 e jogar 🎮. 
 ____
 ____
 - 🎨 **Estudando o front-end e me aprimorando a cada dia.**
