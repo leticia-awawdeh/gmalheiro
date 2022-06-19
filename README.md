@@ -5,7 +5,7 @@ ____
 ____
 - 🎨 **Estudando o front-end e me aprimorando a cada dia.**
 - ⚙️ **Começando no back-end.**
-- 🏫 **Curso desenvolvimento de sistemas.**
+- 🏫 **Curso análise e desenvolvimento de sistemas na Anhembi morumbi e desenvolvimento de sistemas na Etec.**
 - ⚡ **Me considero autoditada. Posso não saber a resposta para sua pergunta, mas não vou descansar enquanto não a encontrá-la.**
 ____
 ____
