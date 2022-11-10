@@ -1,8 +1,8 @@
 <div align = center>
-<div align= center>
- <h1>Olá! Eu sou o Gabriel, mas pode me chamar de Gabs😉</h1> <h1>Hello! My name is Gabriel, but you can call me Gabs😉</h1>
+ <div align= center>
+   <h1>Olá! Eu sou o Gabriel, mas pode me chamar de Gabs😉</h1> <h1>Hello! My name is Gabriel, but you can call me Gabs😉</h1>
 
-</div>
+ </div>
 <div align="center">
   <a href="https://github.com/gmalheiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gmalheiro&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
