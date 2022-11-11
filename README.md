@@ -1,6 +1,6 @@
 <div align = center>
  <div align= center>
-   <h1>Olá! Eu sou o Gabriel, mas pode me chamar de Gabs😉</h1> <h1>Hello! My name is Gabriel, but you can call me Gabs😉</h1>
+   <h1>Olá! Eu sou o Gabriel, mas pode me chamar de Gabs😉</h1> <h1>Hello! My name is Gabriel, but you can call me Gab😉</h1>
 
  </div>
 <div align="center">
